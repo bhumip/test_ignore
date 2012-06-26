@@ -13,6 +13,7 @@ namespace test_ignore
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
 
+            ///// ne change in com mnet
         }
 
         private void ThisAddIn_Shutdown(object sender, System.EventArgs e)
