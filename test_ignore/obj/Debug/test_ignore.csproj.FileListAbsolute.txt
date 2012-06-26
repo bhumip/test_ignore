@@ -7,3 +7,12 @@ C:\bhumip_pro\test_ignore\test_ignore\obj\Debug\test_ignore.Properties.Resources
 C:\bhumip_pro\test_ignore\test_ignore\obj\Debug\test_ignore.csproj.GenerateResource.Cache
 C:\bhumip_pro\test_ignore\test_ignore\obj\Debug\test_ignore.dll
 C:\bhumip_pro\test_ignore\test_ignore\obj\Debug\test_ignore.pdb
+D:\test_git\test_ignore\test_ignore\bin\Debug\test_ignore.dll
+D:\test_git\test_ignore\test_ignore\bin\Debug\test_ignore.pdb
+D:\test_git\test_ignore\test_ignore\bin\Debug\test_ignore.dll.manifest
+D:\test_git\test_ignore\test_ignore\bin\Debug\test_ignore.vsto
+D:\test_git\test_ignore\test_ignore\obj\Debug\ResolveAssemblyReference.cache
+D:\test_git\test_ignore\test_ignore\obj\Debug\test_ignore.Properties.Resources.resources
+D:\test_git\test_ignore\test_ignore\obj\Debug\test_ignore.csproj.GenerateResource.Cache
+D:\test_git\test_ignore\test_ignore\obj\Debug\test_ignore.dll
+D:\test_git\test_ignore\test_ignore\obj\Debug\test_ignore.pdb
