@@ -12,6 +12,7 @@ namespace test_ignore
     {
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
+            int i = 007;
 
             ///// ne change in com mnet
         }

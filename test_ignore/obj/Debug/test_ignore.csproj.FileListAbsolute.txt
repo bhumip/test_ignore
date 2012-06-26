@@ -1,0 +1,9 @@
+C:\bhumip_pro\test_ignore\test_ignore\bin\Debug\test_ignore.dll
+C:\bhumip_pro\test_ignore\test_ignore\bin\Debug\test_ignore.pdb
+C:\bhumip_pro\test_ignore\test_ignore\bin\Debug\test_ignore.dll.manifest
+C:\bhumip_pro\test_ignore\test_ignore\bin\Debug\test_ignore.vsto
+C:\bhumip_pro\test_ignore\test_ignore\obj\Debug\ResolveAssemblyReference.cache
+C:\bhumip_pro\test_ignore\test_ignore\obj\Debug\test_ignore.Properties.Resources.resources
+C:\bhumip_pro\test_ignore\test_ignore\obj\Debug\test_ignore.csproj.GenerateResource.Cache
+C:\bhumip_pro\test_ignore\test_ignore\obj\Debug\test_ignore.dll
+C:\bhumip_pro\test_ignore\test_ignore\obj\Debug\test_ignore.pdb
