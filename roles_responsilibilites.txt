@@ -1,0 +1,17 @@
+Silver Touch Duties and Responsibilities
+?	Programming / code refactoring and rebuilding
+?	Follow best coding practice as much as possible to achieve readable code
+?	Reduce redundancy in overall coding
+?	Produce well-organized, optimized, and documented source code
+?	Design and develop programming systems
+?	Complete programming task in stipulated time
+?	Tests new programs to make sure that logic and syntax are correct, and that program results are accurate; assists lower-level programmers with programming assignments.
+?	Research and recommend software tools to management
+
+Cybercome Creation Web Development
+?	Design and develop programming systems 
+?	Complete programming task in stipulated time
+?	Code re-factoring and re-engineering
+?	Debug existing code, Review and repair legacy code
+?	Programming for continuous improvement system performance
+?	Create proto-type for propose system
