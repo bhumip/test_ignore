@@ -1,0 +1,3 @@
+http://bazalt-cms.com/ng-table/
+http://l-lin.github.io/angular-datatables/#/withAngularTranslate
+http://lorenzofox3.github.io/smart-table-website/
