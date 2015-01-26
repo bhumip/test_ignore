@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <script src="~/Scripts/angular.min.js"></script>    
+    <script src="~/Scripts/underscore-min.js"></script>
+    <script src="~/Scripts/restangular.js"></script>
+    <script src="~/Scripts/ng-table.min.js"></script>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/app")
+    <script type="text/javascript">
+       // var app = angular.module('main', ['ngTable']).
+
+ //controller('DemoCtrl', function ($scope, ngTableParams) {
+
+ //    var data = [{ name: "Moroni", age: 50 },
+
+ //                { name: "Tiancum", age: 43 },
+
+ //                { name: "Jacob", age: 27 },
+
+ //                { name: "Nephi", age: 29 },
+
+ //                { name: "Enos", age: 34 },
+
+ //                { name: "Tiancum", age: 43 },
+
+ //                { name: "Jacob", age: 27 },
+
+ //                { name: "Nephi", age: 29 },
+
+ //                { name: "Enos", age: 34 },
+
+ //                { name: "Tiancum", age: 43 },
+
+ //                { name: "Jacob", age: 27 },
+
+ //                { name: "Nephi", age: 29 },
+
+ //                { name: "Enos", age: 34 },
+
+ //                { name: "Tiancum", age: 43 },
+
+ //                { name: "Jacob", age: 27 },
+
+ //                { name: "Nephi", age: 29 },
+
+ //                { name: "Enos", age: 34 }];
+
+ //    $scope.tableParams = new ngTableParams({
+
+ //        page: 1,            // show first page
+
+ //        count: 10           // count per page
+
+ //    }, {
+
+ //        total: data.length, // length of data
+
+ //        getData: function ($defer, params) {
+
+ //            $defer.resolve(data.slice((params.page() - 1) * params.count(), params.page() * params.count()));
+
+ //        }
+
+ //    });
+
+ //});
+    </script>
+</head>
+<body >
+    
+    @RenderBody()
+
+    
+    @RenderSection("scripts", required: false)
+</body>
+</html>

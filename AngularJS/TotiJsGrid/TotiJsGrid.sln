@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotiJsGrid", "TotiJsGrid\TotiJsGrid.csproj", "{73130903-852C-4AEF-A726-D9593CC839FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotiJsGrid.Tests", "TotiJsGrid.Tests\TotiJsGrid.Tests.csproj", "{F5C603E1-B68D-4DA1-8D4B-928196BEC227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73130903-852C-4AEF-A726-D9593CC839FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73130903-852C-4AEF-A726-D9593CC839FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73130903-852C-4AEF-A726-D9593CC839FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73130903-852C-4AEF-A726-D9593CC839FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C603E1-B68D-4DA1-8D4B-928196BEC227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C603E1-B68D-4DA1-8D4B-928196BEC227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C603E1-B68D-4DA1-8D4B-928196BEC227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C603E1-B68D-4DA1-8D4B-928196BEC227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

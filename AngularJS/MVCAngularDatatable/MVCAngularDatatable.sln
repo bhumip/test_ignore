@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAngularDatatable", "MVCAngularDatatable\MVCAngularDatatable.csproj", "{0F7F0B25-FD77-4B20-BCF8-40670C87BA8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAngularDatatable.Tests", "MVCAngularDatatable.Tests\MVCAngularDatatable.Tests.csproj", "{E144717D-9BE4-4C29-95B2-B1A5F51BF79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F7F0B25-FD77-4B20-BCF8-40670C87BA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7F0B25-FD77-4B20-BCF8-40670C87BA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7F0B25-FD77-4B20-BCF8-40670C87BA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7F0B25-FD77-4B20-BCF8-40670C87BA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E144717D-9BE4-4C29-95B2-B1A5F51BF79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E144717D-9BE4-4C29-95B2-B1A5F51BF79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E144717D-9BE4-4C29-95B2-B1A5F51BF79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E144717D-9BE4-4C29-95B2-B1A5F51BF79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

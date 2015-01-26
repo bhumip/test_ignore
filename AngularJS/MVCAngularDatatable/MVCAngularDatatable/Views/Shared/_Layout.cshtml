@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @*<script src="~/Scripts/angular.min.js"></script>    
+    <script src="~/Scripts/underscore-min.js"></script>
+    <script src="~/Scripts/restangular.js"></script>*@
+    
+    <script src="~/Scripts/angular.min.js"></script>    
+    <script src="~/Scripts/smart-table.min.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script type="text/javascript">
+        var app=angular.module('myApp',['smart-table']);
+        app.controller('paginationCtrl', ['$scope', function (scope) {
+            var
+                nameList = ['Pierre', 'Pol', 'Jacques', 'Robert', 'Elisa'],
+                familyName = ['Dupont', 'Germain', 'Delcourt', 'bjip', 'Menez'];
+
+            function createRandomItem() {
+                var
+                    firstName = nameList[Math.floor(Math.random() * 4)],
+                    lastName = familyName[Math.floor(Math.random() * 4)],
+                    age = Math.floor(Math.random() * 100),
+                    email = firstName + lastName + '@@whatever.com',
+            balance = Math.random() * 3000;
+
+            return {
+                firstName: firstName,
+                lastName: lastName,
+                age: age,
+                email: email,
+                balance: balance
+            };
+        }
+
+           scope.itemsByPage = 15;
+
+           scope.rowCollection = [];
+           for (var j = 0; j < 200; j++) {
+               scope.rowCollection.push(createRandomItem());
+           }
+       }]);
+    </script>
+</head>
+<body ng-app="myApp" ng-controller="paginationCtrl">
+    @RenderBody()
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
